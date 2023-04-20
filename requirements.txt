@@ -1,0 +1,4 @@
+polymesh
+ipykernel
+pyvista
+opencv-python
