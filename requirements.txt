@@ -1,4 +1,4 @@
-polymesh
+sigmaepsilon.mesh
 ipykernel
 pyvista
 opencv-python
