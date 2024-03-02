@@ -1,6 +1,8 @@
 # How to make digital elevation maps in Python?
 
-How to get from here
+You are most probably here because you've seen the [article on Medium](https://medium.com/@bencebalogh_33809/here-is-how-to-make-digital-elevation-maps-in-python-in-a-matter-of-minutes-using-touchterrain-e0b98b66e754).
+
+In short the notebook in the repo solves the problem of getting from here
 ![image](files/badacsony.png)
 to here
 ![image](files/dem_pyvista.png)
@@ -40,3 +42,5 @@ It looks like this on Windows 10:
 
 - <https://opentopography.org/>
 - <https://ngmdb.usgs.gov/topoview/viewer/#4/40.01/-100.06>
+- <https://maps.equatorstudios.com/>
+- <https://touchterrain.geol.iastate.edu/>
